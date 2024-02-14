@@ -5,7 +5,7 @@ import Portfolio from "../Portfolio/Portfolio";
 import Profile from "../Profile/Profile";
 import Social from "../Social/Social";
 import Work from "../Work/Work";
-import Footer from "../Footer/Footer";
+
 
 function Header() {
   return (
@@ -16,7 +16,7 @@ function Header() {
       <Profile />
       <About />
       <Social />
-      
+
     </>
   )
 }
